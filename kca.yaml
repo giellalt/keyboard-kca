@@ -1,4 +1,5 @@
-internalName: khanty_keyboards
+### Generated from se-t-k0-osx.xml on 2017-05-08 at 07:51.
+internalName: kca_keyboards
 
 displayNames:
   en: Khanty
@@ -6,7 +7,7 @@ displayNames:
   kca: Ханти
 
 locale: kca
- 
+
 modes:
 # mobile layouts:
   mobile-default: |
