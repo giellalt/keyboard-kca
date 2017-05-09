@@ -32,4 +32,7 @@ targets:
     packageId: no.uit.giella.keyboards.kca
     bundleName: *bundleName
     icon: images/kca-icon.png
-  osx: *AppleID
+  osx:
+    <<: *AppleID
+    icon: images/kca-icon.png
+    codeSignId: "my-test-installer"
