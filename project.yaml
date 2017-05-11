@@ -34,5 +34,5 @@ targets:
     icon: images/kca-icon.png
   osx:
     <<: *AppleID
-    icon: images/kca-icon.png
+    icon: images/kca-keyboard-menu-icon.png
     codeSignId: "my-test-installer"
