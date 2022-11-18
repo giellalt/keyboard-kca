@@ -2,7 +2,9 @@ displayNames:
   en: Khanty
   nb: khantisk
   kca: Ханти
+
 decimal: ','
+
 macOS:
   primary:
     layers:
@@ -59,6 +61,7 @@ macOS:
         B10: –
   deadKeys:
     cmd+alt: [',', '¯', '¸', 'ƒ', '˙', '˜', '˝']
+
 transforms:
   '-':
     ' ': '-'
@@ -551,6 +554,7 @@ transforms:
     O: Ơ
     u: ư
     U: Ư
+
 longpress:
   А: А̄ Ӓ
   Е: Е̄ Ё Ё̄
@@ -584,7 +588,7 @@ longpress:
   ю: ю̄
   я: я̄
   ь: ъ ҍ
+
 keyNames:
   space: Пробел
   return: Ввод
-
