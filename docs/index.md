@@ -2,7 +2,7 @@
 
 ## Layouts
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=kca&interactive=false"></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=kca&interactive=false" style="height: 430px;"></iframe>
 
 ## Other information
 
